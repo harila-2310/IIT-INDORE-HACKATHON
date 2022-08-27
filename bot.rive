@@ -1,0 +1,17 @@
+// conversation script is below
+// "start" auto-runs to begin the bot conversation 
+
++ start 
+- Hello. How may I help you?
+
++ how are you
+- I am fine!!
+
++ what can you do
+- I can Help You with this Web page!
+
++ where i can find enterprenuers
+- You can find through Search bar!
+
++ *
+- Sorry, I don't understand that.
